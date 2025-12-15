@@ -1,0 +1,7 @@
+{
+  "name": "GuShi Visualizer - Ancient Poetry Animator",
+  "description": "An AI-powered teaching tool that brings Chinese ancient poetry to life by generating era-accurate animations, audio readings, and visual scenes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
